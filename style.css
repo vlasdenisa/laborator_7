@@ -1,0 +1,84 @@
+#2{ 
+
+font-family: "Lucida Console", "Courier New", monospace; 
+
+} 
+
+#3{ 
+
+font-family: "Lucida Console", "Courier New", monospace; 
+
+} 
+
+#em{ 
+color: lightblue; 
+
+font-family: "Brush Script MT", "Courier New", monospace; 
+
+} 
+
+#pr{ 
+
+color: lightblue; 
+
+font-family: "Brush Script MT", "Courier New", monospace; 
+
+} 
+
+#5{ 
+
+font-family: "Brush Script MT", "Courier New", monospace; 
+
+} 
+
+#cit{ 
+
+color:lightblue; 
+
+font-family: "Brush Script MT", "Courier New", monospace; 
+
+} 
+
+th.table { 
+
+  border-style: solid; 
+
+  border-width: medium; 
+
+} 
+
+table, th, td,ul,li { 
+
+  border: 1px solid black; 
+
+} 
+
+#num { 
+
+  font-family: "Brush Script MT", "Courier New", monospace; 
+
+  color: lightblue; 
+
+} 
+
+body { 
+
+  background-color: lightpink; 
+
+} 
+
+img { 
+
+  display: block; 
+
+  margin-left: auto; 
+
+  margin-right: auto; 
+
+  border-radius: 25px; 
+
+  opacity:0.6; 
+
+  width:240px; 
+
+} 
